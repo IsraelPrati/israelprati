@@ -14,7 +14,7 @@ Atualmente, estou me dedicando ao desenvolvimento das minhas habilidades atravé
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
-    <a href="https://www.instagram.com/SEU_USUARIO/">
+    <a href="https://www.instagram.com/israelprati/">
     <img 
         alt="Instagram"
         title="Visite meu Instagram"
